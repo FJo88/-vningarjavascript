@@ -1,0 +1,38 @@
+#parent {
+    padding: 3rem;
+    display: inline-flex;
+  }
+  #output {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+  }
+  h2 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  h3 {
+    font-size: 5rem;
+    color: red;
+    text-align: center;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  div {
+    padding: 2rem;
+  }
+  label {
+    padding: 2rem;
+    font-size: 2rem;
+  }
+  button {
+    background-color: yellow;
+    color: blue;
+    font-size: 1.5rem;
+  }
+  p {
+    display: inline;
+    font-size: 2rem;
+  }
+  
